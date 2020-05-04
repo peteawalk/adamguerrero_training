@@ -1,6 +1,6 @@
 {
   "main": {
-    "name":"Adam Guerrero Fitness",
+    "name":"Adam Guerrero",
     "occupation":"Personal Trainer",
     "description":"",
     "image":"profilepic.jpeg",
@@ -10,9 +10,9 @@
     "phone": "123-456-7890",
     "address":{
       "street":"Old Orchard Area",
-      "city":"Lee's Summit",
-      "state":"MO",
-      "zip": "64063"
+      "city":"Olathe",
+      "state":"KS",
+      "zip": "12345"
     },
     "website": "https://adamguerrerofitness.netlify.app",
     "resumedownload":"https://adamguerrerofitness.netlify.app/assets/documents/peterwalker_resume.pdf",
