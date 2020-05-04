@@ -6,13 +6,13 @@
     "image":"profilepic.jpeg",
     "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas pretium aenean pharetra magna ac. Ipsum dolor sit amet consectetur adipiscing. Pellentesque sit amet porttitor eget dolor morbi non arcu risus. Velit aliquet sagittis id consectetur purus ut. Feugiat vivamus at augue eget arcu dictum varius duis. Senectus et netus et malesuada fames ac turpis egestas. Curabitur gravida arcu ac tortor dignissim. Imperdiet sed euismod nisi porta lorem mollis aliquam. Aenean sed adipiscing diam donec. Dictum at tempor commodo ullamcorper a.",
     "contactmessage":"Send me a message below, email me, text me, or 📞", 
-    "email": "placeholder@gmail.com",
-    "phone": "123-456-7890",
+    "email": "Adamguerrero1987@gmail.com",
+    "phone": "785.249.9807",
     "address":{
       "street":"Old Orchard Area",
       "city":"Olathe",
       "state":"KS",
-      "zip": "12345"
+      "zip": "66061"
     },
     "website": "https://adamguerrerofitness.netlify.app",
     "resumedownload":"https://adamguerrerofitness.netlify.app/assets/documents/peterwalker_resume.pdf",
@@ -60,32 +60,20 @@
     ],
     "skills":[
       {
-        "name":"JavaScript",
-        "level":"65%"
+        "name":"Olympic Lifting",
+        "level":"90%"
       },
       {
-        "name":"CSS3",
+        "name":"Functional Strength Training",
         "level":"75%"
       },
       {
-        "name":"HTML5",
+        "name":"Bodybuilding",
         "level":"85%"
       },
       {
-        "name":"MySQL",
-        "level":"75%"
-      },
-      {
-        "name":"MongoDB",
+        "name":"Cardio",
         "level":"25%"
-      },
-      {
-        "name":"React",
-        "level":"25%"
-      },
-      {
-        "name":"Git",
-        "level":"75%"
       }
     ]
   },
