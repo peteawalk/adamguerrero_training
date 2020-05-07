@@ -38,13 +38,19 @@
     "skillmessage":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit. Ghetto sapizzle yo, daahng dawg volutpat, suscipit quis, gravida boom shackalack, arcu.", 
     "work":[
       {
-        "company":"Placeholder",
+        "company":"Certified Personal Trainer",
         "title":"Placeholder",
         "years":"July 2017 - Present",
         "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit."
       },
       {
-        "company":"Placeholder",
+        "company":"Certified Nutrition Coach",
+        "title":"Placeholder",
+        "years":"August 2014 - July 2017",
+        "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit."
+      },
+      {
+        "company":"Certified Weigh Loss Specialist",
         "title":"Placeholder",
         "years":"August 2014 - July 2017",
         "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit."
