@@ -4,7 +4,7 @@
     "occupation":"Personal Trainer",
     "description":"Welcome to Adam Guerrero Fitness",
     "image":"profilepic.jpg",
-    "bio":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Turpis egestas pretium aenean pharetra magna ac. Ipsum dolor sit amet consectetur adipiscing. Pellentesque sit amet porttitor eget dolor morbi non arcu risus. Velit aliquet sagittis id consectetur purus ut. Feugiat vivamus at augue eget arcu dictum varius duis. Senectus et netus et malesuada fames ac turpis egestas. Curabitur gravida arcu ac tortor dignissim. Imperdiet sed euismod nisi porta lorem mollis aliquam. Aenean sed adipiscing diam donec. Dictum at tempor commodo ullamcorper a.",
+    "bio":"Hi, I’m Adam Guerrero founder of Wellness Through You. First, I want to thank you for taking the time to visit the website. I have been in the fitness industry for over a decade and genuinely enjoy helping people reach their fitness and health goals. I am a certified personal trainer, nutrition coach, and weight loss specialist. Our purpose at Wellness Through You is to help guide you to achieve your fitness and health goals. Our duty is to teach you the concepts of living a fit, and overall healthy life. Our goal is to show you how to live a sustainable healthy life full of enrichment and gratification. Please take some time to check out our programs below and submit your information to have one of our specialized trainers contact you shortly.",
     "contactmessage":"Send me a text, email me, or 📞", 
     "email": "Adamguerrero1987@gmail.com",
     "phone": "785.249.9807",
@@ -60,60 +60,60 @@
     ],
     "skills":[
       {
-        "name":"Olympic Lifting",
+        "name":"Weight Loss and Nutrition",
         "level":"90%"
       },
       {
         "name":"Functional Strength Training",
-        "level":"75%"
+        "level":"90%"
       },
       {
         "name":"Bodybuilding",
-        "level":"85%"
+        "level":"95%"
       },
       {
         "name":"Cardio",
-        "level":"25%"
+        "level":"85%"
       }
     ]
   },
   "portfolio":{
     "projects": [
       {
-        "title":"Fresh Air",
-        "category":"A travel site for new or busy travelers",
+        "title":"Personal Training",
+        "category":"Our personal training programs are designed to get you to your highest level of physical conditioning. Our programs are designed to help build and maintain lean muscle mass while reducing unwanted fat.",
         "image":"freshair.png",
-        "url":"https://whispering-shelf-78602.herokuapp.com/"
+        "url":""
       },
       {
-        "title":"Friend Finder",
-        "category":"Find a friend or date",
+        "title":"Wellness Coaching",
+        "category":"Wellness Through You offers tailored wellness coaching. Our plans include individual meal plans, and training programs. Our wellness coaches come from a variety of backgrounds and will stay actively engaged with you throughout your program.",
         "image":"friendfinder.jpeg",
-        "url":"https://damp-harbor-89405.herokuapp.com/"
+        "url":""
       },
       {
-        "title":"Morganic",
-        "category":"MORganic is a nationwide Farmer's Market search utilizing the USDA API and Google Maps API",
+        "title":"Nutrition",
+        "category":"Our nutrition plans are designed by certified nutrition coaches to help you meet any dietary goal. Meal plans are customized and adjusted so you never stop progressing.",
         "image":"morganic.png",
-        "url":"https://peteawalk.github.io/MORganic/"
+        "url":""
       },
       {
-        "title":"Resume Website",
-        "category":"My third attempt at my portfolio",
+        "title":"Weight Loss",
+        "category":"The weight loss program is for anyone looking to lose any amount of unwanted fat. Our coaches specialize in weight loss and our their to guide you from day one.",
         "image":"resume-website.png",
-        "url":"https://peterwalker.dev"
+        "url":""
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"He's a strong guy. Great at tug of war.",
-        "user":"Peter Walker"
+        "text":"I had the pleasure of with training Adam for over two years. Throughout my program I gained noticeable strength and muscle development. Adam inspired me to take my training to the next level.",
+        "user":"Cameron Runnels"
       },
       {
-        "text":"Adam likes breakfast foods and wood working just like me.",
-        "user":"Ron Swanson"
+        "text":"",
+        "user":""
       }
     ]
   }
