@@ -39,21 +39,21 @@
     "work":[
       {
         "company":"Certified Personal Trainer",
-        "title":"Placeholder",
+        "title":"National Association of Sports Medicine",
         "years":"July 2017 - Present",
-        "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit."
+        "description":""
       },
       {
         "company":"Certified Nutrition Coach",
-        "title":"Placeholder",
+        "title":"National Association of Sports Medicine",
         "years":"August 2014 - July 2017",
-        "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit."
+        "description":""
       },
       {
         "company":"Certified Weigh Loss Specialist",
-        "title":"Placeholder",
+        "title":"National Association of Sports Medicine",
         "years":"August 2014 - July 2017",
-        "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit."
+        "description":""
       }
     ],
     "education":[
@@ -61,7 +61,7 @@
         "school":"Placeholder",
         "degree":"Placeholder Certification",
         "graduated":"November 2019",
-        "description":"Learned MVC paradigm, gLorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit. And much more."
+        "description":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit. And much more."
       }
     ],
     "skills":[
