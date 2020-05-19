@@ -46,6 +46,7 @@ class Contact extends Component {
 						   {city}, {state} {zip}<br />
 						   <span>{phone}</span><br />
                      <span>{email}</span>
+                     
 					   </p>
 				   </div>
             </div>

@@ -35,7 +35,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Lorizzle ipsum stuff sizzle nizzle, consectetuer break it down elit. Ghetto sapizzle yo, daahng dawg volutpat, suscipit quis, gravida boom shackalack, arcu.", 
+    "skillmessage":"Over a decade of experience...", 
     "work":[
       {
         "company":"Certified Personal Trainer",
@@ -88,25 +88,25 @@
       {
         "title":"Personal Training",
         "category":"Our personal training programs are designed to get you to your highest level of physical conditioning. Our programs are designed to help build and maintain lean muscle mass while reducing unwanted fat.",
-        "image":"freshair.png",
+        "image":"personal_training.jpeg",
         "url":""
       },
       {
         "title":"Wellness Coaching",
         "category":"Wellness Through You offers tailored wellness coaching. Our plans include individual meal plans, and training programs. Our wellness coaches come from a variety of backgrounds and will stay actively engaged with you throughout your program.",
-        "image":"friendfinder.jpeg",
+        "image":"weights.jpeg",
         "url":""
       },
       {
         "title":"Nutrition",
         "category":"Our nutrition plans are designed by certified nutrition coaches to help you meet any dietary goal. Meal plans are customized and adjusted so you never stop progressing.",
-        "image":"morganic.png",
+        "image":"nutrition.jpeg",
         "url":""
       },
       {
         "title":"Weight Loss",
         "category":"The weight loss program is for anyone looking to lose any amount of unwanted fat. Our coaches specialize in weight loss and our their to guide you from day one.",
-        "image":"resume-website.png",
+        "image":"wellness_coaching.jpg",
         "url":""
       }
     ]
