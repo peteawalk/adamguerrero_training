@@ -89,25 +89,25 @@
         "title":"Personal Training",
         "category":"Our personal training programs are designed to get you to your highest level of physical conditioning. Our programs are designed to help build and maintain lean muscle mass while reducing unwanted fat.",
         "image":"personal_training.jpeg",
-        "url":""
+        "url":"https://adamguerrerofitness.netlify.app/public/images/portfolio/personal_training.jpeg"
       },
       {
         "title":"Wellness Coaching",
         "category":"Wellness Through You offers tailored wellness coaching. Our plans include individual meal plans, and training programs. Our wellness coaches come from a variety of backgrounds and will stay actively engaged with you throughout your program.",
         "image":"weights.jpeg",
-        "url":""
+        "url":"https://adamguerrerofitness.netlify.app/public/images/portfolio/weights.jpeg"
       },
       {
         "title":"Nutrition",
         "category":"Our nutrition plans are designed by certified nutrition coaches to help you meet any dietary goal. Meal plans are customized and adjusted so you never stop progressing.",
         "image":"nutrition.jpeg",
-        "url":""
+        "url":"https://adamguerrerofitness.netlify.app/public/images/portfolio/nutrition.jpeg"
       },
       {
         "title":"Weight Loss",
         "category":"The weight loss program is for anyone looking to lose any amount of unwanted fat. Our coaches specialize in weight loss and our their to guide you from day one.",
         "image":"wellness_coaching.jpg",
-        "url":""
+        "url":"https://adamguerrerofitness.netlify.app/public/images/portfolio/wellness_coaching.jpg"
       }
     ]
   },
